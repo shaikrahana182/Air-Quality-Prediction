@@ -53,7 +53,7 @@ Languages
 Jupyter Notebook
 99.5%
  
-Python
+# Python
 0.5%
 Suggested workflows
 Based on your tech stack
@@ -68,7 +68,4 @@ Publish Python Package
 Publish a Python Package to PyPI on release.
 More workflows
 Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Priv
+
